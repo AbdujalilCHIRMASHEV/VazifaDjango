@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-5g=abfdyj(+z_&#23+7ycw*!&=$zd0=_6)^uanazl&-m89cf-s
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['vazifadjango.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
